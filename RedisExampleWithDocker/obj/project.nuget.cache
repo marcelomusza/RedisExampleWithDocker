@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8l6jIa+nE5UGPBC7trpE+nM/9Qxg3/OWhdqrMwhli62FDmh8GZGkMZULPEPmqn0vTLDKHiRp8PhtQAYpVLuAiQ==",
+  "dgSpecHash": "oJG1T4ScfEVGrLpri5C0VPf3Ozd+nGN2YtD14loStFmvUTtLoR7Hf0zlmPIiIvaWbiuPkhfoAoPxd9yXQHaLDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marce\\source\\repos\\Training\\RedisExampleWithDocker\\RedisExampleWithDocker\\RedisExampleWithDocker.csproj",
   "expectedPackageFiles": [
@@ -12,8 +12,7 @@
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
-    "C:\\Users\\Marce\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
-    "C:\\Users\\Marce\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Marce\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcd9b20b-1ca9-4f2e-8da5-7a19af06f620": {
+      "ProjectGuid": "bcd9b20b-1ca9-4f2e-8da5-7a19af06f620",
+      "DisplayName": "RedisExampleWithDocker",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
